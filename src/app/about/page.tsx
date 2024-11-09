@@ -17,7 +17,7 @@ export default function Home(){
         </div>
         <div className='w-full md:w-1/2 text-center md:text-left mt-6 md:mt-0 p-4 lg:p-6'>
            <h1 className="font-bold mb-4 text-white text-2xl">About Me</h1>
-           <p className="text-left text-white">I'm an intermediate student.I recently completed a few steps in learning HTML, CSS, TypeScript and Javascript I'm currently expanding my knowledge in Next.js and starting my journey into Artificial Intelligence.</p>
+           <p className="text-left text-white">I&apos;m an intermediate student.I recently completed a few steps in learning HTML, CSS, TypeScript and Javascript I&apos;m currently expanding my knowledge in Next.js and starting my journey into Artificial Intelligence.</p>
        </div>
   </div>
   );

@@ -8,8 +8,8 @@ export default function Home(){
         <title className="text-white">Home</title> 
         <div className='w-full md:w-1/2 text-center md:text-left mt-6 md:mt-0 p-4 lg:p-6"'>
            <h1 className="font-bold mb-4 text-white text-2xl lg:text-3xl">Hi,</h1>
-           <h1 className="font-bold mb-4 text-white text-2xl lg:text-3xl">I'm Esha!</h1>
-           <p className="text-left text-white">Welcome to my portfolio! I'm an intermediate student.I recently completed a few steps in learning HTML, CSS, TypeScript and Javascript.Take a look around to see my projects and learn more about my work.</p>
+           <h1 className="font-bold mb-4 text-white text-2xl lg:text-3xl">I&apos;m Esha!</h1>
+           <p className="text-left text-white">Welcome to my portfolio! I&apos;m an intermediate student.I recently completed a few steps in learning HTML, CSS, TypeScript and Javascript.Take a look around to see my projects and learn more about my work.</p>
        </div>
         <div className="w-full md:w-1/2 max-w-xs md:max-w-sm lg:max-w-md mx-auto">
            <Image 
