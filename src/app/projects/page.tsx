@@ -25,7 +25,7 @@ export default function Project (){
         </div>
         
         <div className="bg-[#647291] font-normal flex flex-col w-[300px] h-[400px] justify-center text-center rounded-lg shadow-lg p-6 ransition-transform transform hover:-translate-y-2 hover:shadow-2xl hover:bg-[#8a8aaa]">
-        <h3 className="font-bold text-base text-white">Dynamic Resume Builder</h3>
+        <h3 className="font-bold text-base text-white">Dynamic Shareable Resume</h3>
         <Image 
             src="/img/project-2.png" 
             alt="Profile Picture" 
@@ -33,7 +33,7 @@ export default function Project (){
             height={350} 
            />
             <button className="bg-[#1E2A47] text-white mt-5 px-4 py-2 rounded-md text-base cursor-pointer transition duration-300 ease-in-out hover:bg-black">
-               <a href="https://hachathonemilestone3.vercel.app/" target="_blank">
+               <a href="https://hackathon-milestone-5-omega-gules.vercel.app/" target="_blank">
                 View
                </a>
             </button>

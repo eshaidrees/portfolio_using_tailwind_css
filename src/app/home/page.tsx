@@ -3,7 +3,7 @@ import React from "react";
 
 export default function Home(){
   return (
-     <div className="bg-blue-950 flex flex-col md:flex-row justify-center items-center p-6 md:p-16 lg:p-20 gap-8 lg:gap-12 max-w-8xl mx-auto">
+     <div className="bg-blue-950 flex flex-col md:flex-row justify-center items-center min-h-screen p-6 md:p-16 lg:p-20 gap-8 lg:gap-12 max-w-8xl mx-auto">
 
         <title className="text-white">Home</title> 
         <div className='w-full md:w-1/2 text-center md:text-left mt-6 md:mt-0 p-4 lg:p-6"'>
